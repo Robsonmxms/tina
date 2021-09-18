@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:tina/shared/design/design_themes.dart';
 import 'package:tina/shared/routers/app_routers.dart';
 import 'package:tina/shared/routers/named_routers.dart';
 import 'package:tina/view/home/home_binding.dart';
@@ -14,10 +15,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      theme: AppTheme.lightTheme,
       initialRoute: NamedRouters.homePage,
       initialBinding: HomeBinding(),
       getPages: AppPage.pages,

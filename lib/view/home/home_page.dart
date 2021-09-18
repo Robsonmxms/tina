@@ -9,9 +9,17 @@ class HomePage extends GetView<HomeController> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('HomePage'),
+        title: const Text(
+          'HomePage',
+        ),
       ),
-      body: Container(),
+      body: const Center(
+        child: ElevatedButton(
+          style: ButtonStyle(),
+          onPressed: null,
+          child: Text('oi'),
+        ),
+      ),
     );
   }
 }
