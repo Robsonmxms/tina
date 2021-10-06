@@ -6,12 +6,12 @@ Tina is a mobile app aimed at Brazilian stock exchange investors who want to kno
 
 ## The Application
 
-# How to Run the Project
-
-# Author
-Robson Lima Lopes
-
-[LinkedIn](https://www.linkedin.com/in/robson-lima-lopes-60616118b/)
-
-[Medium](https://medium.com/@robson.mxms)
-
+### Figma Layout
+![splash_screen](https://github.com/Robsonmxms/tina/blob/master/assets/splash_screen.PNG)
+![login](https://github.com/Robsonmxms/tina/blob/master/assets/login.PNG)
+![screen1](https://github.com/Robsonmxms/tina/blob/master/assets/screen1.PNG)
+![screen1_since](https://github.com/Robsonmxms/tina/blob/master/assets/screen1_since.PNG)
+![screen1_quote](https://github.com/Robsonmxms/tina/blob/master/assets/screen1_quote.PNG)
+![screen2](https://github.com/Robsonmxms/tina/blob/master/assets/screen2.PNG)
+![edit_quote](https://github.com/Robsonmxms/tina/blob/master/assets/edit_quote.PNG)
+![edit_quote_quote](https://github.com/Robsonmxms/tina/blob/master/assets/edit_quote_quote.PNG)
