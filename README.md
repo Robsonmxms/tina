@@ -15,3 +15,9 @@ Tina is a mobile app aimed at Brazilian stock exchange investors who want to kno
 ![screen2](https://github.com/Robsonmxms/tina/blob/master/assets/screen2.PNG)
 ![edit_quote](https://github.com/Robsonmxms/tina/blob/master/assets/edit_quote.PNG)
 ![edit_quote_quote](https://github.com/Robsonmxms/tina/blob/master/assets/edit_quote_quote.PNG)
+
+## Getting Started
+
+- Use the offical documentation to install flutter: https://flutter.dev/docs/get-started/install 
+- Clone using `git clone` and paste de repository link.
+- Run an emulator then use `flutter run` to builld the project.
